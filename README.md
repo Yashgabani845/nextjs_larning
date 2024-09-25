@@ -1,5 +1,4 @@
-
-```md
+```
 # Next.js Learning Roadmap
 
 A comprehensive guide to learning Next.js, from the basics to advanced concepts.
